@@ -1,7 +1,7 @@
 # Analyzing-the-Economic-Facet-of-the-COVID19-Pandemic
 When the COVID pandemic struck the world in March of 2020, countries were faced by the challenge of constraining the spread of the virus to save people’s lives as well as the economy. Given that the outbreak was believed to leave enormous scars on the global economy, most countries had to enforce certain restrictions that would maximize the number of lives saved while also minimizing their economic losses.
 
-However, in countries like the United States, finding such balance ended up jeopardizing the lives of many. With over 58% of survey respondents disapproving of the government's way of handling the pandemic, there seem to be some underlying economic motives behind its decision to reopen the country despite the objective severity of the outbreak. These economic motives may have contributed to the fact that the United States recorded one of the highest total COVID cases per million across the world.
+However, in countries like the United States, finding such balance ended up jeopardizing the lives of many. With over 58% of survey respondents disapproving of the US government's way of handling the pandemic, there seem to be some underlying economic motives behind its decision to reopen the country despite the objective severity of the outbreak. These economic motives may have contributed to the fact that the United States recorded one of the highest total COVID cases per million across the world.
 
 These observations led me to the question: Can we observe a similar global trend in which prioritizing economic motives may correspond to having high numbers of covid cases in a given country?
 
